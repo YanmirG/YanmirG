@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Yanmir o puedes decirme Yan 🈹 </h1>
 <h3 align="center">Estudiante en Ingenieria de Sistema🌟.</h3>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
 <p align="right"> <h3>Vistas en el Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Contactame en estas redes:</h3>
+## <h3 align="left">Contactame en estas redes:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/carlos-yanmir-guerrero-arroyo-286a36309/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -36,7 +36,8 @@
 
 <br>
 
-<h3 align="left">Manejo de Lenguajes:</h3>
+
+## <h3 align="left">Manejo de Lenguajes:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -74,13 +75,20 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a 
 
+                                        
+
 <br>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanmirG&theme=tokyonight)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="center"src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YanmirG&theme=gruvbox&hide_border=FALSO&locale=es" alt="GitHub Streak"/></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YanmirG&theme=merko&locale=es)](https://git.io/streak-stats)
+
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [Yan](https://github.com/YanmirG)
