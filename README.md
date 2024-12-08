@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Vistas en el Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame en estas redes:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/carlos-yanmir-guerrero-arroyo-286a36309" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Manejo de Lenguajes:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
