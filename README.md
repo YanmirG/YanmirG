@@ -78,7 +78,7 @@
 
 
 
-<p><img align="center"src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YanmirG&theme=gruvbox&hide_border=FALSO&locale=es" alt="GitHub Streak"/></a>
+<p><img align="center"src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YanmirG&theme=gruvbox&hide_border=FALSO&locale=es" alt="GitHub Streak"/></a>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
