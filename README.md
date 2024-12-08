@@ -22,7 +22,7 @@
 
 <h3 align="left">Contactame en estas redes:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/carlos-yanmir-guerrero-arroyo-286a36309" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/carlos-yanmir-guerrero-arroyo-286a36309/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/carlosyanmir.guerreroarroyo/?_rdr" target="blank"><img align="center"
