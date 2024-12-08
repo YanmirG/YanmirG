@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 👀 Estoy interesado en seguir aprendiendo a hacer Videojuegos VR
-- 🌱 Actualmente estoy estudiando Ingenieria de Sistemas
+- 🌱 Actualmente estoy trabajando en Técnico de Soporte y Verificación de Equipos de Traducción Simultanea
 - 💞️ Busco colaborar en proyectos de Realidad Virtual
 - 📫 Cómo contactarme en Instagram: @Carlos._.Yanmir
 - ⚡ Dato curioso: Me gusta escuchar musica mientras hago los trabajos jaja
