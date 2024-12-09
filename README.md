@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, Soy Yanmir o puedes decirme Yan 🈹 </h1>
-<h3 align="center">Estudiante en Ingenieria de Sistema🌟.</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71835&background=8281FF00&width=435&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Espero+puedan+encontrar+algo;de+su+agrado+%3AD" alt="Typing SVG" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
-<p align="right"> <h3>Vistas en el Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Vistas en el Perfil :D 🥇</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -37,32 +38,55 @@
 <br>
 
 
-## Mis habilidades incluyen
+## 🛠️Mis habilidades incluyen
 
-<h4> Languages </h4>
+### 👉Languages
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
-<h4> Frameworks </h4>
+### 👉Frameworks
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+### 👉Databases
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+### 👉Graphic Designing
+<p align="left">
+  &emsp;
+  	
+  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
+
+ 
+### 👉 IDE
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+### 👉Other Tools and Technologies
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
@@ -70,13 +94,16 @@
 </span>
 
 
-                                        
-
+                                
 <br>
+
+## 📊 Github Estadísticas Perfil
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanmirG&theme=tokyonight)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## 🔥 Streak Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YanmirG&theme=merko&locale=es)](https://git.io/streak-stats)
 
@@ -86,4 +113,6 @@
       
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[Yan](https://github.com/YanmirG)
+
+* Creditos: [Yan](https://github.com/YanmirG)
+* Last Edited on: 08/12/2024
