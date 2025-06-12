@@ -12,11 +12,8 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 👀 Estoy interesado en seguir aprendiendo a hacer Videojuegos VR
-- 🌱 Actualmente estoy trabajando en Técnico de Soporte y Verificación de Equipos de Traducción Simultanea
-- 💞️ Busco colaborar en proyectos de Realidad Virtual
-- 📫 Cómo contactarme en Instagram: @Carlos._.Yanmir
-- ⚡ Dato curioso: Me gusta escuchar musica mientras hago los trabajos jaja
+# 💫 About Me:
+👀 Estoy interesado en seguir aprendiendo a hacer Videojuegos VR<br>🌱 Actualmente estoy trabajando en Técnico de Soporte y Verificación de Equipos de Traducción Simultanea<br>💞️ Busco colaborar en proyectos de Realidad Virtual<br>📫 Cómo contactarme en Instagram: @Carlos._.Yanmir<br>⚡ Dato curioso: Me gusta escuchar musica mientras hago los trabajos<br>
 
 
 <br>
@@ -37,8 +34,7 @@
 
 <br>
 
-# 💫 About Me:
-👀 Estoy interesado en seguir aprendiendo a hacer Videojuegos VR<br>🌱 Actualmente estoy trabajando en Técnico de Soporte y Verificación de Equipos de Traducción Simultanea<br>💞️ Busco colaborar en proyectos de Realidad Virtual<br>📫 Cómo contactarme en Instagram: @Carlos._.Yanmir<br>⚡ Dato curioso: Me gusta escuchar musica mientras hago los trabajos jaja<br>
+
 
 
 # 💻 Tech Stack:
