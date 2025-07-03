@@ -18,6 +18,7 @@
 👀 Estoy interesado en seguir aprendiendo a hacer Videojuegos VR<br>🌱 Actualmente estoy trabajando en Técnico de Soporte y Verificación de Equipos de Traducción Simultanea<br>💞️ Busco colaborar en proyectos de Realidad Virtual<br>📫 Cómo contactarme en Instagram: @Carlos._.Yanmir<br>⚡ Dato curioso: Me gusta escuchar musica mientras hago los trabajos<br>
 
 
+
 <br>
 
 ## <h3 align="left">Contactame en estas redes:</h3>
